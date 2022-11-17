@@ -102,6 +102,7 @@ h1 {
 .edit {
 	font-weight: bold;
 	color: rgb(15, 179, 69);
+	text-transform: uppercase;
 }
 .delete {
 	color: tomato;
